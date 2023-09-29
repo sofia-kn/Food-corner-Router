@@ -1,0 +1,51 @@
+.header__wrapper{
+    /* height: 8rem; */
+    background-color: #000;
+    padding: 1rem 8rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header__logo--img{
+    width:4.5rem;
+}
+.header__list ul{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+.header__list--item{
+    padding: 1rem 2rem;
+    font-size: 1.5rem;
+}
+.header__item--link{
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Hamburger Menu */
+ 
+.header__menu{
+    display: none;
+    position: absolute;
+    background-color: #000;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    width: 20rem;
+
+}
+.header__menu--item{
+    padding:2rem;
+    font-size: 1.5rem;
+}
+.header__menu--list{
+list-style-type: none;
+}
+.header__menu--link{
+  text-decoration: none;
+  color: #fff;
+}
+

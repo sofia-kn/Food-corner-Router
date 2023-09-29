@@ -1,0 +1,27 @@
+.card__wrapper {
+  width: 30rem;
+  height: 35rem;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  margin: 2rem 3rem;
+  border-radius: 1rem;
+  overflow: hidden;
+}
+.card__image {
+  height: 65%;
+}
+.card__image--img {
+  width: 100%;
+  height: 100%;
+}
+.card__details {
+    padding: 1.5rem;
+    
+}
+.card__details--name {
+    font-size: 2.5rem;
+    margin: 0;
+}
+.card__details--price {
+font-size: 1.5rem;
+margin-top: 1rem;
+}

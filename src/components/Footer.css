@@ -1,0 +1,35 @@
+.footer__wrapper{
+    background-color: #000;
+    padding: 3rem 4rem 4rem;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    flex-direction: column;
+}
+.footer__icons{
+    
+}
+.footer__icons--list{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.footer__list--icon{
+    padding: 0 1.8rem;
+}
+.footer__icon--link{
+   
+}
+.footer__icon--link img{
+    width: 4rem;
+}
+.footer__text{
+    margin-top: 3rem;
+}
+.footer__text span{
+    color: #fff;
+    font-size: 1.4rem;
+   
+}
